@@ -28,7 +28,7 @@ DEBUG = os.getenv('DEBUG')
 
 # ALLOWED_HOSTS = os.getenv("ALLOWED_HOSTS", "127.0.0.1,localhost").split(",")
 # settings.py
-ALLOWED_HOSTS = ['django-bookstore-api.onrender.com', 'localhost', '127.0.0.1', '.onrender.com']
+ALLOWED_HOSTS = ['django-bookstore-api.onrender.com']
 # print("Allowed Hosts:", ALLOWED_HOSTS)
 
 
