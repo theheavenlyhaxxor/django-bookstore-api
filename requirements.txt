@@ -9,3 +9,4 @@ psycopg2-binary==2.9.11
 Pygments==2.19.2
 python-dotenv==1.2.1
 sqlparse==0.5.4
+whitenoise==6.11.0
